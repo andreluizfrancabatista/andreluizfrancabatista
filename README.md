@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @andreluizfrancabatista
-- 👀 I’m interested in Artificial Inteligence, Web developing, Game developing.
-- 🌱 I’m currently learning Javascript, HTML, CSS, Python, Love2D, React, Nodejs.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me. You can reach in social media or personal website https://linktr.ee/andre.batista
+## 👋 Hi, I’m André Luiz França Batista
+🎓 Professor (Teacher) | 🧠 Pesquisador (Researcher) | 💻 Desenvolvedor (Dev)  
+📍 Ituiutaba - MG
 
-<!---
-andreluizfrancabatista/andreluizfrancabatista is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Brasil](https://flagcdn.com/w20/br.png) Brasil  
+
+## 👀 I’m interested in these research topics:
+- 🤖🌾 AI & Innovation in Agribusiness
+- 🤖 Artificial Intelligence & Deep Learning
+- 🧩 Autonomous Agents in Games and Simulations
+- 📈 Data Science Applied to Real-World Problems
+- 📚 Technology Education with Active Learning Methodologies
+- 🛠️ Web Development and Interactive Applications
+
+
+## 📫 How to reach me. 
+- 💼 [LinkedIn](https://www.linkedin.com/in/dr-andre-luiz-franca-batista/)
+- 🌐 [Meu Lattes](http://lattes.cnpq.br/6730030915781776)
+- 🧠 [Repositórios no GitHub](https://github.com/andreluizfrancabatista)
+
+---
