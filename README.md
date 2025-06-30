@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m André Luiz França Batista
-🎓 Professor (Teacher) | 🧠 Pesquisador (Researcher) | 💻 Desenvolvedor (Dev)  
+🎓 Teacher | 🧠 Researcher | 💻 Dev  
 
 ## 👀 I’m interested in these research topics:
 - 🤖🌾 AI & Innovation in Agribusiness
