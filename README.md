@@ -1,8 +1,5 @@
 ## 👋 Hi, I’m André Luiz França Batista
 🎓 Professor (Teacher) | 🧠 Pesquisador (Researcher) | 💻 Desenvolvedor (Dev)  
-📍 Ituiutaba - MG
-
-![Brasil](https://flagcdn.com/w20/br.png) Brasil  
 
 ## 👀 I’m interested in these research topics:
 - 🤖🌾 AI & Innovation in Agribusiness
