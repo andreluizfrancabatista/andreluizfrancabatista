@@ -13,6 +13,6 @@
 ## 📫 How to reach me
 - 💼 [LinkedIn](https://www.linkedin.com/in/dr-andre-luiz-franca-batista/)
 - 🌐 [Lattes](http://lattes.cnpq.br/6730030915781776)
-- 🧠 [GitHub Repos](https://github.com/andreluizfrancabatista)
+- 🧠 [GitHub Repos](https://github.com/andreluizfrancabatista?tab=repositories)
 
 ---
